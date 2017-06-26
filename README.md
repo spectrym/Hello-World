@@ -1,2 +1,3 @@
 # Hello-World
 my first repository
+week 2 cs50 very slow going...
